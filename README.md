@@ -36,7 +36,4 @@ You can automate everything with a single script.
 - **APT Package Manager**
 - **systemd**
 
----
-
-## 📂 Project Structure
 
